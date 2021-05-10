@@ -28,5 +28,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about anything health and data
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishamathi&theme=dark&show_icons=true&hide=prs,issues&count_private=true)](https://github.com/nishamathi/github-readme-stats)
+
 
 
