@@ -10,6 +10,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 ![alt text](https://github.com/nishamathi/pics/blob/main/Connections.jpg?raw=true)
 -->
+📫 How to reach me: nishamathi.bits@utexas.edu
+
+😄 Pronouns: she/her/hers
+
+⚡ Fun fact: Love chess, music, learning piano (message me to play a duet with me 😉)
+
+💎 Friends describe me as: Spirited, smart, compassionate, and honest 
+
 🔭 I’m currently working on my PhD Thesis at UT Austin
 
 🌱 I’m currently learning Bayesian Belief Networks and Natural Language Processing
@@ -20,9 +28,5 @@ Here are some ideas to get you started:
 
 💬 Ask me about anything health and data
 
-📫 How to reach me: nishamathi.bits@utexas.edu
 
-😄 Pronouns: she/her
-
-⚡ Fun fact: Love chess, music, learning piano (message me to play a duet with me 😉)
 
