@@ -1,18 +1,14 @@
-### Hi there 👋 I am Nisha ¯\_(ツ)_/¯ 
+<img src="https://github.com/nishamathi/pics/blob/main/Connections.jpg?raw=true" alt="banner that says Nisha Kumaraswamy - Team Lead, Health data enthusiast">
+
+### Hi there 👋 I am Nisha ¯\\_(ツ)_/¯ 
 
 <!--
 **nishamathi/nishamathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my PhD Thesis at UT Austin
-- 🌱 I’m currently learning Bayesian Belief Networks
-- 👯 I’m looking to collaborate on health economics, health care data projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![alt text](https://github.com/nishamathi/pics/blob/main/Connections.jpg?raw=true)
 -->
 🔭 I’m currently working on my PhD Thesis at UT Austin
 
@@ -29,3 +25,4 @@ Here are some ideas to get you started:
 😄 Pronouns: she/her
 
 ⚡ Fun fact: Love chess, music, learning piano (message me to play a duet with me 😉)
+
