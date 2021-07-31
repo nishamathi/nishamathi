@@ -1,4 +1,4 @@
-<img src="https://github.com/nishamathi/pics/blob/main/Connections.jpg?raw=true" alt="banner that says Nisha Kumaraswamy - Team Lead, Health data enthusiast">
+<img src="https://github.com/nishamathi/pics/blob/main/Nisha_Cartoon.png?raw=true" alt="banner that says Nisha Kumaraswamy - Team Lead, Health data enthusiast">
 
 ### Hi there 👋 I am Nisha ¯\\_(ツ)_/¯ 
 
